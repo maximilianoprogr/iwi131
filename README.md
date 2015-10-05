@@ -1,2 +1,3 @@
-# iwi131
-Programación de Computadores - saborizado a química- UTFSM - 
+# IWI131
+## Programación de Computadores
+Paralelo 06

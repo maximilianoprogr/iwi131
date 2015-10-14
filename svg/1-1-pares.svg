@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="1-2-pares.svg"
+   sodipodi:docname="1-1-pares.svg"
    inkscape:export-filename="/home/education/Desktop/USM@Dropbox/usm_inf/IWI131/material_mio/svg/pares.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -272,6 +272,20 @@
          transform="scale(0.4,0.4)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-41"
+       style="overflow:visible">
+      <path
+         id="path4079-06"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -281,8 +295,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="338.68067"
-     inkscape:cy="499.59767"
+     inkscape:cx="448.71738"
+     inkscape:cy="507.03439"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -295,7 +309,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid3759"
@@ -314,7 +329,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -560,7 +575,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#TriangleOutM)"
-       d="m 894.04061,842.74364 0,-229.1124"
+       d="m 894.04061,680.10908 0,-66.47784"
        id="path3160-7-5-9-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -672,8 +687,14 @@
          y="675.64203">no</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#TriangleOutM)"
-       d="M 552.36554,841.73928 887.76909,841.2342"
+       d="M 552.36554,841.73928 710.9924,841.2342"
        id="path3160-7-5-9-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#TriangleOutM)"
+       d="m 722.89146,841.44341 0,-98.36476"
+       id="path3160-7-0-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
   </g>

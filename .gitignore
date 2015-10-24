@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Modifications
+*.*~
+
+# Checkpoints
+*ipynb_checkpoints
+
+# SVG pngs
+svg/*.png

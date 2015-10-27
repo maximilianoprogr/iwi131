@@ -518,9 +518,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="508.56067"
-     inkscape:cy="734.64019"
+     inkscape:zoom="0.7"
+     inkscape:cx="503.99194"
+     inkscape:cy="255.83081"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -552,7 +552,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -581,7 +581,7 @@
              width="183.06021"
              id="rect3853-7" /></flowRegion><flowPara
            style="font-size:20px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-           id="flowPara3669">¿precio &lt; 60?</flowPara></flowRoot>    </g>
+           id="flowPara3669">¿precio &gt; 60?</flowPara></flowRoot>    </g>
     <g
        id="g3765"
        transform="translate(-202.85714,-90.571429)">
